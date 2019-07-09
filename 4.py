@@ -1,2 +1,2 @@
 ji=input()
-print(ji+.)
+print(ji+'.')
